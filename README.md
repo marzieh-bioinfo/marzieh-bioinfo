@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Marzieh
 
-<!--
-**marzieh-bioinfo/marzieh-bioinfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Bioinformatics MSc student in Sweden, focusing on **NGS**, **single-cell RNA-seq**, and **data analysis / machine learning**. I enjoy turning complex biological data into clear, interpretable results.
 
-Here are some ideas to get you started:
+**What I work with:**
+- Genome & transcriptome analysis (QC, assembly, annotation)
+- RNA-seq / single-cell pipelines on HPC (Linux, Slurm, UPPMAX)
+- Statistics and machine learning in Python and R
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Main project:**
+- [Genom-Analysis](https://github.com/marzieh-bioinfo/Genom-Analysis) – Re-analysis of genomic and transcriptomic data from *Streptomyces rimosus*.
+
+📫 I’m interested in bioinformatics, omics data, and data-driven biology.
